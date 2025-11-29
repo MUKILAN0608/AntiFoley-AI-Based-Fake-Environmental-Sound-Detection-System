@@ -1,4 +1,4 @@
-# 🎧 AntiFoley-AI-Based-Fake-Environmental-Sound-Detection-System 🔍
+# 🎧 AntiFoley-AI-Based-Fake-Environmental-Sound-Detection-System 
 
 **Enterprise-Grade Audio Authenticity Detection System**
 
