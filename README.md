@@ -1301,4 +1301,4 @@ If you use this project in your research, please cite:
 
 **Built with ❤️ for advancing audio authenticity detection**
 
-*Last updated: January 2024*
+*Last updated: November 2025*
