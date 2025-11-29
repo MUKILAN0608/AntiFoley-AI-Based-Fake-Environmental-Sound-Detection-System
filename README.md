@@ -1274,20 +1274,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Citation
 
-If you use this project in your research, please cite:
-
-```bibtex
-@software{antifoley2024,
-  title={AntiFoley: Audio Authenticity Detection System},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/antifoley-detector}
-}
-```
-
----
 
 ## Acknowledgments
 
