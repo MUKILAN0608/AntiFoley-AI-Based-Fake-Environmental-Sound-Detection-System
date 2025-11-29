@@ -1,0 +1,3 @@
+@echo off
+echo Starting AntiFoley Backend API...
+python app.py
